@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "SUMMER SONG 〜YUI Acoustic Version〜",
+  "base_artist": "YUI",
+  "createdAt": "2026-03-30T08:55:29.775427Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Summer Song (Yui Acoustic Version)",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/01_Summer_Song_(Yui_Acoustic_Version)_YUI.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SUMMER SONG ～YUI Acoustic Version～",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/02_SUMMER_SONG_~YUI_Acoustic_Version~_YUI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SUMMER SONG 〜YUI Acoustic Version〜",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/03_SUMMER_SONG_〜YUI_Acoustic_Version〜_YUI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Summer Song (Yui Acoustic Version)",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/04_Summer_Song_(Yui_Acoustic_Version)_YUI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "03.SUMMER SONG YUI Acoustic Version",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/05_03.SUMMER_SONG_YUI_Acoustic_Version_YUI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "SUMMER SONG 〜YUI Acoustic Version〜",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/06_SUMMER_SONG_〜YUI_Acoustic_Version〜_YUI.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SUMMER SONG -YUI Acoustic Version-",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/07_SUMMER_SONG_-YUI_Acoustic_Version-_YUI.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SUMMER SONG -YUI Acoustic Version-",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/08_SUMMER_SONG_-YUI_Acoustic_Version-_YUI.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SUMMER SONG -YUI Acoustic Version-",
+      "artist": "YUI",
+      "has_synced": true,
+      "path": "select/09_SUMMER_SONG_-YUI_Acoustic_Version-_YUI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SUMMER SONG ~YUI Acoustic Version~",
+      "artist": "YUI",
+      "has_synced": false,
+      "path": "select/pl_01_SUMMER_SONG_~YUI_Acoustic_Version~_YUI.txt"
+    }
+  ]
+}
